@@ -1,2 +1,1 @@
-# super-potato
-Gatsbyjs blog websites with tailwindcss
+## build awesome project and store source code here.... reset repo
